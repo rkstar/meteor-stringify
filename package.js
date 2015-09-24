@@ -1,6 +1,6 @@
 Package.describe({
   name: 'rkstar:stringify',
-  version: '0.1',
+  version: '0.1.0',
   // Brief, one-line summary of the package.
   summary: 'Similar to JSON.stringify but without the quotes (") around keys.',
   // URL to the Git repository containing the source code for this package.
